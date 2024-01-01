@@ -33,7 +33,7 @@ main .container{
     border-radius: 10px;
     background-color: var(--White);
     width: 80%;
-    max-width: 360px;
+    max-width: 375px;
     padding: 1rem;
     /* box-shadow: 5px 5px 5px var(--Black); */
     box-shadow: 8px 8px 0px 0px rgba(0,0,0,1);
